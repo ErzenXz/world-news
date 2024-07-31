@@ -1,4 +1,4 @@
-const apiUrl = 'https://test.erzen.tk/article/all';
+const apiUrl = 'https://api.sapientia.life/article/all';
 let currentStart = 0;
 const pageSize = 15;
 
